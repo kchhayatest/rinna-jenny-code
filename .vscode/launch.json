@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DreamlabApplication<dreamlab>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dreamlab.dreamlab.DreamlabApplication",
+            "projectName": "dreamlab",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
